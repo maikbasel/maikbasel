@@ -1,4 +1,4 @@
-# Hi there, I'm Maik 👋
+# Moin, I'm Maik 👋
 
 I'm a IT Consultant/Fullstack Developer
 at [Lufthansa Industry Solutions](https://www.lufthansa-industry-solutions.com/de-de/). Here’s
