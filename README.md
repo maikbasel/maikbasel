@@ -1,7 +1,7 @@
 # Moin, I'm Maik 👋
 
 I'm a IT Consultant/Fullstack Developer
-at [Lufthansa Industry Solutions](https://www.lufthansa-industry-solutions.com/de-de/). Here’s
+at [SQUER Munich](https://www.squer.io/). Here’s
 a bit about me:
 
 ## 🌟 About Me
