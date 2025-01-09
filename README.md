@@ -1,6 +1,6 @@
 # Moin, I'm Maik 👋
 
-I'm a IT Consultant/Fullstack Developer
+I'm a Senior Software Engineer
 at [SQUER Munich](https://www.squer.io/). Here’s
 a bit about me:
 
