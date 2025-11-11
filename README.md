@@ -14,6 +14,10 @@ I'm a dedicated Fullstack Developer with experience in both frontend and backend
 ## 🛠️ Certifications
 
 - **iSAQB Certified Professional for Software Architecture (CPSA) - Foundation Level**
+- **AWS Certified Developer - Associate**\
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/1d4d4f45655c425ca59c0804ce38205d">
+  <img src="assets/aws-certified-developer-associate.png" alt="AWS Certified Developer Associate" width="75"/>
+  </a>
 
 ## 🚀 Projects and Contributions
 
