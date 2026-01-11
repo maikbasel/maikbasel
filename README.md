@@ -21,10 +21,7 @@ I'm a dedicated Fullstack Developer with experience in both frontend and backend
 
 ## 🚀 Projects and Contributions
 
-Although I didn't contribute in any projects yet, I love learning new things by creating side projects. One of my recent
-projects is:
-
-- [AWS Custodian](https://github.com/maikbasel/aws-custodian) - A project aimed at managing AWS resources efficiently.
+I love learning new things by creating side projects that explore different technologies and solve interesting problems. Feel free to browse through my repositories to see what I've been working on!
 
 ## 🎲 Hobbies and Interests
 
