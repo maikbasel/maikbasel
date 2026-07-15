@@ -23,6 +23,10 @@ I'm a dedicated Fullstack Developer with experience in both frontend and backend
 
 I love learning new things by creating side projects that explore different technologies and solve interesting problems. Feel free to browse through my repositories to see what I've been working on!
 
+## ✍️ Writing
+
+- [Avoiding the "Deadly Embrace" in AWS CDK: Best Practices for Shared Resources Across Stacks](https://www.squer.io/blog/avoiding-the-deadly-embrace-in-aws-cdk-best-practices-for-shared-resources-across-stacks)
+
 ## 🎲 Hobbies and Interests
 
 Outside of work, I'm an avid enthusiast of tabletop role-playing games (TTRPGs) like **Dungeons and Dragons**.
